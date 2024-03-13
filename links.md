@@ -17,6 +17,7 @@ permalink: LINKS/
 
 - [Computer Science Operating Systems Concepts](https://www.tutorialspoint.com/operating_system/os_overview.htm)
   This tutorial provides a concise overview of operating system concepts, including processes, memory management, file systems, and more. It's suitable for beginners and serves as a quick refresher for advanced topics.
+https://teksnologi.com/os-linux-terbaik/
 
 - [OSDev Wiki](https://wiki.osdev.org/Main_Page)
   The OSDev Wiki is a collaborative resource for operating system development. It contains tutorials, articles, and documentation on various aspects of OS development, making it an invaluable reference for OS enthusiasts and developers.
