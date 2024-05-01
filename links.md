@@ -21,3 +21,5 @@ https://teksnologi.com/os-linux-terbaik/
 
 - [OSDev Wiki](https://wiki.osdev.org/Main_Page)
   The OSDev Wiki is a collaborative resource for operating system development. It contains tutorials, articles, and documentation on various aspects of OS development, making it an invaluable reference for OS enthusiasts and developers.
+
+https://www.youtube.com/watch?v=Z0oYmKeUh2A&list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX&index=10
